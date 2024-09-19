@@ -1,0 +1,33 @@
+[{
+    "name": "Patrick",
+    "age": 8,
+    "hobbies": ["Squidward", "Spongebob", "Patrick", "Sandy", "Squidward", "Mr. Krabs" ],
+    "favorites": ["Spongebob", "Patrick", "Sandy", "Squidward", "Mr. Krabs" ]
+},
+
+{
+    "name": "Spongebob",
+    "age": 5,
+    "hobbies": ["Squidward", "Spongebob", "Patrick", "Sandy", "Squidward", "Mr. Krabs" ],
+    "favorites": ["Spongebob", "Patrick", "Sandy", "Squidward", "Mr. Krabs" ]
+},
+{
+    "name": "Sandy",
+    "age": 7,
+    "hobbies": ["Squidward", "Spongebob", "Patrick", "Sandy", "Squidward", "Mr. Krabs" ],
+    "favorites": ["Spongebob", "Patrick", "Sandy", "Squidward", "Mr. Krabs" ]
+},
+{
+    "name": "Squidward",
+    "age": 9,
+    "hobbies": ["Squidward", "Spongebob", "Patrick", "Sandy", "Squidward", "Mr. Krabs" ],
+    "favorites": ["Spongebob", "Patrick", "Sandy", "Squidward", "Mr. Krabs" ]   
+
+},
+{
+    "name": "Mr. Krabs",
+    "age": 10,
+    "hobbies": ["Squidward", "Spongebob", "Patrick", "Sandy", "Squidward", "Mr. Krabs" ],
+    "favorites": ["Spongebob", "Patrick", "Sandy", "Squidward", "Mr. Krabs" ]
+}
+]
